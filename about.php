@@ -606,10 +606,10 @@ $reviews = $select_reviews->fetchAll(PDO::FETCH_ASSOC);
          <img src="images/c1.png" alt="Premium Meats Farm">
       </div>
       <div class="about-content">
-         <h2 class="about-title">Why Choose Us?</h2>
-         <p class="about-text">At Premium Meats, we believe in reconnecting people with the true essence of meat. Our journey began in 2015, with a simple yet powerful vision: to provide ethically raised, premium quality meats that honor both the animals and the land they come from.</p>
+         <h2 class="about-title">Why Choose Grabbit Hare PH?</h2>
+         <p class="about-text">At Grabbit Hare PH, we’re passionate about bringing you the freshest, most responsibly sourced rabbit products in the Philippines. Our goal is simple: to provide high-quality rabbit meat, live rabbits, ready-to-eat dishes, and premium feeds that support both healthy living and sustainable farming.</p>
          
-         <p class="about-text">We work directly with local farmers who share our values of sustainable and humane animal husbandry. Our rabbits, chickens, and other livestock are raised in spacious, natural environments where they can express their natural behaviors and live stress-free lives.</p>
+         <p class="about-text">We partner with trusted local farmers who raise their rabbits with care in clean, spacious environments. Each rabbit is nurtured with natural feed and plenty of room to hop—resulting in happier animals and better-quality meat you can feel good about.</p>
          
          <div class="about-features">
             <div class="feature-item">

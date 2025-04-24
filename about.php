@@ -720,7 +720,7 @@ $user_image = !empty($review['user_image']) ? 'uploaded_img/'.$review['user_imag
 
 <section class="about-container">
    <div class="section-header">
-      <h1 class="section-title">Our Story</h1>
+      <h1 class="section-title">Or Story</h1>
       <p class="section-subtitle">From humble beginnings to becoming the Philippines' trusted source for premium meat</p>
    </div>
 

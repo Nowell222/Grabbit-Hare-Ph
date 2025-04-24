@@ -726,10 +726,11 @@ $user_image = !empty($review['user_image']) ? 'uploaded_img/'.$review['user_imag
 
    <div class="about-row">
       <div class="about-content">
-         <h2 class="about-title">A Family Tradition</h2>
-         <p class="about-text">Premium Meats was born from a legacy of three generations of farming expertise. What started as a small family farm in Batangas has grown into a network of carefully selected partner farms across Luzon, all committed to our rigorous standards for animal welfare and sustainable farming practices.</p>
+         <h2 class="about-title">Rooted in Family, Raised with Care</h2>
+         <p class="about-text">Grabbit Hare PH began as a family dream rooted in the farmlands of Batangas. What started as a small backyard rabbitry has grown into a trusted network of farms across Luzon, united by a shared passion for ethical farming and animal care.
+         </p>
          
-         <p class="about-text">Our founder, Christian James Aguila, grew up watching her grandmother raise rabbits and chickens with meticulous care and respect. Those early lessons taught her that happy, healthy animals raised in natural environments produce meat of exceptional quality and flavor. Today, that philosophy remains at the heart of everything we do.</p>
+         <p class="about-text">Our founder, Christian James Aguila, was inspired by his grandmother’s way of raising rabbits with patience, love, and respect. That same tradition lives on in every product we offer—raising rabbits the right way, just like grandma taught us.</p>
          
          <div class="about-features">
             <div class="feature-item">
@@ -780,10 +781,11 @@ $user_image = !empty($review['user_image']) ? 'uploaded_img/'.$review['user_imag
          <img src="images/c1.png" alt="Our Process">
       </div>
       <div class="about-content">
-         <h2 class="about-title">From Farm to Your Table</h2>
-         <p class="about-text">At Premium Meats, we oversee every step of the process to ensure that the meat that reaches your table is of the highest quality. Our rabbits and chickens are raised in spacious, clean environments where they receive natural feed free from antibiotics, hormones, and GMOs.</p>
+         <h2 class="about-title">From Our Farm to Your Table</h2>
+         <p class="about-text">We take pride in every step of the journey—from farm to freezer to your home. Our rabbits are raised in stress-free settings with no antibiotics, hormones, or GMOs, and they’re fed only with quality, all-natural feeds.
+         </p>
          
-         <p class="about-text">When the time comes, our animals are processed humanely in small batches at our state-of-the-art facility. The meat is carefully portioned, packaged, and flash-frozen to preserve its freshness and nutritional value. We deliver directly to your door, maintaining the cold chain from our facility to your freezer.</p>
+         <p class="about-text">Each product is prepared in small batches and processed in our modern facility with the highest standards of hygiene and humane handling. We vacuum-seal and flash-freeze our meats to lock in freshness, then deliver them straight to your door—ensuring every order arrives safe, clean, and delicious.</p>
          
          <div class="about-features">
             <div class="feature-item">
